@@ -2,6 +2,7 @@
 Arduino Obstacle Avoiding Robot with L298N H-Bridge Motor Driver
 
 materials:
+
 Arduino Nano, L298N H-bridge, HC SR04 Sensor, SG90 Servo, DC Motor Wheel,
 Styrofoam, Front Wheel, 9V Battery, Battery Clip, Power Cable
 
